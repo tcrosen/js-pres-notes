@@ -1,3 +1,5 @@
+// Managing asynchronous behavior with callbacks
+
 var people = [];
 
 function getPeople(done) {

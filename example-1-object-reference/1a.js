@@ -1,3 +1,6 @@
+
+// Primitive values do not affect reference
+
 var terry = 'Terry';
 var mike = 'Mike';
 

@@ -1,3 +1,5 @@
+// Asynchronous behavior undesired result
+
 var people = [];
 
 function getPeople() {

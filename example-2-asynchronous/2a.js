@@ -1,3 +1,5 @@
+// Synchronous behavior
+
 var people = [];
 
 function getPeople() {
